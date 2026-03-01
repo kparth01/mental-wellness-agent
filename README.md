@@ -2,9 +2,10 @@
 
 A local-first, multi-agent Mental Wellness AI system built with LangGraph. Implements a **Supervisor → Planner → Executor → Aggregator** architecture for safe, supportive mental wellness conversations.
 
-**Author:** Nisarg Kadam – Agentic AI & Automation Architect
+**Author:** Parth – Agentic AI & Automation Architect
 
 ## Architecture
+
 User Input
 
 ↓
@@ -32,7 +33,6 @@ Aggregator Agent (Response Composition)
 ↓
 
 Final Wellness Response
-
 
 ## Prerequisites
 
@@ -169,5 +169,6 @@ UK: Call Samaritans at 116 123
 Global: Visit findahelpline.com for local resources
 License
 MIT License - feel free to use, modify, and distribute with attribution.
-Created by Nisarg Kadam – Agentic AI & Automation Architect
+Created by Parth Kansara – Agentic AI & Automation Architect
 Building local-first AI systems for human wellbeing.
+```
