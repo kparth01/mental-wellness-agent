@@ -5,3 +5,6 @@ langchain-openai>=0.0.5
 python-dotenv>=1.0.0
 requests>=2.31.0
 pydantic>=2.5.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+langserve[all]>=0.0.30
